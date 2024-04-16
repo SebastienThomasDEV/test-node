@@ -3,8 +3,6 @@
 Ce projet est un jeu de Pierre, Feuille, Ciseaux, totalement utile et indispensable à la vie de tous les jours.
 Les stacks utilisées sont Node.js et MongoDB.
 
-Tout le monde connait les règles, donc je ne vais pas les expliquer.
-
 ## Installation
 
 
