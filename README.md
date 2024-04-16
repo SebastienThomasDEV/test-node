@@ -1,4 +1,4 @@
-#PFS - (Pierre, Feuille, Ciseaux)
+#Pierre, Feuille, Ciseaux
 
 Ce projet est un jeu de Pierre, Feuille, Ciseaux, totalement utile et indispensable à la vie de tous les jours.
 Les stacks utilisées sont Node.js et MongoDB.
@@ -27,7 +27,7 @@ C'est tout, vous pouvez maintenant jouer à Pierre, Feuille, Ciseaux, révolutio
 les routes disponibles sont les suivantes :
 
 - GET /game/start
-- GET /game/play/:choice
+- GET /game/play/:choice  /!\choix possibles: rock, paper, scissors
 - GET /game/score
 - GET /game/reset
 
