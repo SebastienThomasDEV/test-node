@@ -5,7 +5,6 @@ Les stacks utilisées sont Node.js et MongoDB.
 
 ## Installation
 
-
 ```bash
 npm install
 ```
@@ -13,14 +12,10 @@ npm install
 ## Utilisation
 
 ```bash
-
 npm run dev
 ```
 
-/!\ Vous devez avec un cluster MongoDB pour pouvoir utiliser ce jeu. configurez votre cluster dans le fichier .env
-
-
-C'est tout, vous pouvez maintenant jouer à Pierre, Feuille, Ciseaux, révolutionnaire non ?
+/!\ Vous devez avec un cluster MongoDB pour pouvoir utiliser ce jeu. créer et configurez votre cluster dans le fichier .env
 
 les routes disponibles sont les suivantes :
 
