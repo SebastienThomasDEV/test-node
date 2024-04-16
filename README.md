@@ -24,6 +24,6 @@ les routes disponibles sont les suivantes :
 - GET /game/score
 - GET /game/reset
 
-Consommez l'API à l'adresse suivante : http://localhost:3000/game avec votre meilleur client HTTP.
+Consommez l'API à l'adresse suivante : http://localhost:3000/game/start avec votre meilleur client HTTP.
 
 
